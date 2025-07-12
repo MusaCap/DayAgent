@@ -1,0 +1,2 @@
+# DayAgent
+Day trading agent
